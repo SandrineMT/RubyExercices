@@ -1,0 +1,4 @@
+puts "Bonjour, c'est quoi ton blase ?"
+user_name = gets.chomp
+puts user_name 
+# en attente de saisie d'un mot directement sur le terminal 
